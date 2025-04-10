@@ -19,9 +19,6 @@
 ---
 
 ## 🖼️ Screenshots
-
-| Start Screen | Typing Test | Results Popup |
-|--------------|-------------|----------------|
 | ![image](https://github.com/user-attachments/assets/73ac9588-37ea-4d69-91e2-548b605da9c4)
 | ![image](https://github.com/user-attachments/assets/24c95fce-98bc-45e0-8e4e-4c33e8bd152e)
  | ![image](https://github.com/user-attachments/assets/078ca07e-8bee-459d-a74a-b43289b04dd7)
